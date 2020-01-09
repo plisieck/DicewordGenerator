@@ -1,0 +1,11 @@
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator.deps.json
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator.runtimeconfig.json
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator.runtimeconfig.dev.json
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator.dll
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/bin/Debug/netcoreapp3.0/DicewareGenerator.pdb
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/obj/Debug/netcoreapp3.0/DicewareGenerator.csprojAssemblyReference.cache
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/obj/Debug/netcoreapp3.0/DicewareGenerator.AssemblyInfoInputs.cache
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/obj/Debug/netcoreapp3.0/DicewareGenerator.AssemblyInfo.cs
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/obj/Debug/netcoreapp3.0/DicewareGenerator.dll
+/Users/user/Projects/DicewareGenerator/DicewareGenerator/obj/Debug/netcoreapp3.0/DicewareGenerator.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DicewareGenerator/1.0.0": {
+        "runtime": {
+          "DicewareGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DicewareGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
